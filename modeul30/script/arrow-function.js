@@ -48,7 +48,7 @@ const result3 = (physics , chemistry, math) => {
 
 // 3 way to write arrow function 
 // 1. empty parenthesis
-const name = ()=>console.log("binoy");
+const name1 = ()=>console.log("binoy");
 // name()
 
 //2.no parenthesis use

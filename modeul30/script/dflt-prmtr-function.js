@@ -33,4 +33,6 @@ function mark(math=0, english=0){
 mark(45) //math r english sudu dile output NaN asbe 
 mark(43) // math = 0 and english = 0 diye ja argumet deya ace tai asbe. aitai hosche default parameters
 
-// default parameter depend on his function equation 
+// default parameter depend on his function equation
+
+
