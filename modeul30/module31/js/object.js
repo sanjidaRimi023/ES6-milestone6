@@ -22,5 +22,5 @@ const person = {
  */
 
 // console.log(person.1); error asbe
-console.log(person[1]); //right code
-console.log(person['details']['adult']);
+// console.log(person[1]); //right code
+// console.log(person['details']['adult']);
